@@ -5,9 +5,9 @@ To start the application run Main.py file.
 
 When starting the application you will be presented with the user login page where you have the options to eithe rcreate your own account or use:
 
-email - ekundayo93@gmail.com 
-user - tester 
-password - tester1
+- email - ekundayo93@gmail.com 
+- user - tester 
+- password - tester1
 
 To access the application then you will be automaticly redirected to the user home-page and a menu tab where you can choose to either:
 - Upload a file
